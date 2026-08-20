@@ -1,0 +1,23 @@
+{
+  "name": "pw_36",
+  "version": "1.0.0",
+  "description": "Demo for github",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhukarQA369/PW_36.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MadhukarQA369/PW_36/issues"
+  },
+  "homepage": "https://github.com/MadhukarQA369/PW_36#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}
